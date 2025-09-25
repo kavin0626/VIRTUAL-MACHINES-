@@ -1,8 +1,10 @@
 # VIRTUAL-MACHINES
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-## NAME :KAVINRAJ.S
-## REG NO : 212223100019
+```
+ NAME :KAVINRAJ.S
+ REG NO : 212223100019
+```
 
 Aim:
 To move the files between virtual machine.
